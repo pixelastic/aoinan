@@ -2,11 +2,15 @@
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
     "firost": "^0.8.2",
-    "golgoth": "^0.3.2"
+    "golgoth": "^0.3.2",
+    "he": "^1.2.0",
+    "nodemw": "^0.12.2",
+    "wtf_wikipedia": "^7.4.2"
   },
   "description": "<> Simplified crawling of wikis",
   "devDependencies": {
-    "aberlaas": "^0.1.10"
+    "aberlaas": "^0.1.10",
+    "get-port": "^5.0.0"
   },
   "license": "MIT",
   "main": "index.js",

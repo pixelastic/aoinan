@@ -1,0 +1,9 @@
+{
+  "query": {
+    "categorymembers": [
+      { "pageid": 7776, "ns": 0, "title": "One" },
+      { "pageid": 1738, "ns": 0, "title": "Two" },
+      { "pageid": 2333, "ns": 0, "title": "Three" }
+    ]
+  }
+}
