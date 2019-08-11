@@ -3,20 +3,18 @@
   "dependencies": {
     "firost": "^0.8.2",
     "golgoth": "^0.3.2",
-    "he": "^1.2.0",
-    "nodemw": "^0.12.2",
-    "wtf_wikipedia": "^7.4.2"
+    "nodemw": "^0.12.2"
   },
   "description": "<> Simplified crawling of wikis",
   "devDependencies": {
-    "aberlaas": "^0.1.10",
+    "aberlaas": "^0.2.1",
     "get-port": "^5.0.0"
   },
-  "license": "MIT",
   "files": [
-    "build"
+    "build/"
   ],
-  "main": "index.js",
+  "license": "MIT",
+  "main": "build/index.js",
   "name": "aoinan",
   "repository": "git@github.com:pixelastic/aoinan.git",
   "scripts": {
