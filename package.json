@@ -14,8 +14,8 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "name": "aoi",
-  "repository": "git@github.com:pixelastic/aoi.git",
+  "name": "aoinan",
+  "repository": "git@github.com:pixelastic/aoinan.git",
   "scripts": {
     "build": "./scripts/build",
     "build:watch": "./scripts/build-watch",
