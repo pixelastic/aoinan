@@ -3,7 +3,8 @@
   "dependencies": {
     "firost": "^0.8.2",
     "golgoth": "^0.3.2",
-    "nodemw": "^0.12.2"
+    "nodemw": "^0.12.2",
+    "wtf_wikipedia": "^7.6.0"
   },
   "description": "<> Simplified crawling of wikis",
   "devDependencies": {
