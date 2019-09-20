@@ -1,0 +1,19 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "1433": {
+        "pageid": 1433,
+        "ns": 0,
+        "title": "Foo title",
+        "revisions": [
+          {
+            "contentformat": "text/x-wiki",
+            "contentmodel": "wikitext",
+            "*": "Foo content"
+          }
+        ]
+      }
+    }
+  }
+}
