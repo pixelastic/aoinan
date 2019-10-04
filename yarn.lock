@@ -2599,6 +2599,11 @@ esutils@^2.0.2:
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.3.tgz#74d2eb4de0b8da1293711910d50775b9b710ef64"
   integrity sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==
 
+eventemitter2@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/eventemitter2/-/eventemitter2-5.0.1.tgz#6197a095d5fb6b57e8942f6fd7eaad63a09c9452"
+  integrity sha1-YZegldX7a1folC9v1+qtY6CclFI=
+
 exec-sh@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/exec-sh/-/exec-sh-0.3.2.tgz#6738de2eb7c8e671d0366aea0b0db8c6f7d7391b"
@@ -2879,13 +2884,14 @@ firost@0.8.2:
     json-stable-stringify "1.0.1"
     shelljs "0.8.2"
 
-firost@^0.11.4:
-  version "0.11.4"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-0.11.4.tgz#348714f7f3d5a1cedcc0b6a47a9130c69852518f"
-  integrity sha512-eR4nTYr4dyw+P+37onuE/QS29hAc4KwuRD1Ojtfk7zstQOasiDuQH/WHwwRQh9dO3jDoavRb8OsCDCY/f+CQyg==
+firost@^0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/firost/-/firost-0.13.0.tgz#f5f84bf8945a31a2af392ecf0b2b4017e065da86"
+  integrity sha512-OMUDvMRPTvDtfCId+KqYpQzVMC6PChHnF6mWiz0pDBVPJ2frCax/n6I5ES0gs761uMZBZd0ANmAENT7W8w0t/w==
   dependencies:
     chokidar "3.0.2"
     esm "^3.2.25"
+    eventemitter2 "^5.0.1"
     fs-extra "^8.1.0"
     globby "8.0.2"
     golgoth "0.3.0"

@@ -1,7 +1,7 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
-    "firost": "^0.11.4",
+    "firost": "^0.13.0",
     "golgoth": "^0.3.2",
     "graceful-fs": "4.2.1",
     "nodemw": "^0.12.2",
