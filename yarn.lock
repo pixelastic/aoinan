@@ -3204,24 +3204,6 @@ golgoth@0.3.0:
     query-string "6.2.0"
     time-span "3.1.0"
 
-golgoth@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.3.2.tgz#3056c72df762b9918668ac3738ca4bf182487971"
-  integrity sha512-fcuu2JRcBG1YSzTQziEgpLkUUrDPEbgq4BflkkAG+gFFGpvGFqjOYOz9c5IQheP07LEQFMOYjKFVgFKAvveokw==
-  dependencies:
-    chalk "2.4.1"
-    dayjs "1.7.7"
-    flat "4.1.0"
-    got "9.3.2"
-    lodash "4.17.11"
-    ora "3.0.0"
-    p-all "1.0.0"
-    p-map "2.0.0"
-    p-map-series "1.0.0"
-    pify "4.0.1"
-    query-string "6.2.0"
-    time-span "3.1.0"
-
 golgoth@^0.3.4:
   version "0.3.4"
   resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.3.4.tgz#ffff3a5e1d7fbcef45c775ae993f0eb92a433091"
@@ -3236,6 +3218,25 @@ golgoth@^0.3.4:
     p-all "1.0.0"
     p-map "2.0.0"
     p-map-series "1.0.0"
+    pify "4.0.1"
+    query-string "6.2.0"
+    time-span "3.1.0"
+
+golgoth@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/golgoth/-/golgoth-0.4.0.tgz#cee7e8677813ceddcfd021d5ac776fee548a7c94"
+  integrity sha512-QI2Q77UmVmWpZ4SEI9PpIljdMqpriW/kFGxYO9SsgbiP69eLb3mj2ckQjfx2ItzDyCpkyE2OqHX/WcczQdYTQQ==
+  dependencies:
+    chalk "2.4.2"
+    dayjs "1.8.16"
+    flat "4.1.0"
+    got "9.6.0"
+    lodash "^4.17.15"
+    ora "3.0.0"
+    p-all "1.0.0"
+    p-map "2.0.0"
+    p-map-series "1.0.0"
+    p-settle "3.1.0"
     pify "4.0.1"
     query-string "6.2.0"
     time-span "3.1.0"
@@ -5448,6 +5449,19 @@ p-reduce@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/p-reduce/-/p-reduce-1.0.0.tgz#18c2b0dd936a4690a529f8231f58a0fdb6a47dfa"
   integrity sha1-GMKw3ZNqRpClKfgjH1ig/bakffo=
+
+p-reflect@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/p-reflect/-/p-reflect-2.1.0.tgz#5d67c7b3c577c4e780b9451fc9129675bd99fe67"
+  integrity sha512-paHV8NUz8zDHu5lhr/ngGWQiW067DK/+IbJ+RfZ4k+s8y4EKyYCz8pGYWjxCg35eHztpJAt+NUgvN4L+GCbPlg==
+
+p-settle@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/p-settle/-/p-settle-3.1.0.tgz#6194f4f929364a8843be54ced118389b7b9ee017"
+  integrity sha512-gkN3UDlyofG81IRhxLnonSIi8BBrwcPlKMJS6tcJRubofyekqQPMdB5LXPrmCkeu/m/YKx5PzkUVQLezda5/JQ==
+  dependencies:
+    p-limit "^2.2.0"
+    p-reflect "^2.0.0"
 
 p-try@^1.0.0:
   version "1.0.0"

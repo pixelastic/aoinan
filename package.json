@@ -2,7 +2,7 @@
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
     "firost": "^0.13.0",
-    "golgoth": "^0.3.2",
+    "golgoth": "^0.4.0",
     "graceful-fs": "4.2.2",
     "nodemw": "^0.12.2",
     "wtf_wikipedia": "^7.6.0"
