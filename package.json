@@ -3,7 +3,7 @@
   "dependencies": {
     "firost": "^0.13.0",
     "golgoth": "^0.4.0",
-    "graceful-fs": "4.2.2",
+    "graceful-fs": "4.2.3",
     "nodemw": "^0.12.2",
     "wtf_wikipedia": "^7.6.0"
   },
