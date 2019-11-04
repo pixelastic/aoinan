@@ -22,6 +22,7 @@
   "scripts": {
     "build": "./scripts/build",
     "build:watch": "./scripts/build-watch",
+    "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:css": "./scripts/lint-css",
     "lint:css:fix": "./scripts/lint-css-fix",
