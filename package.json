@@ -9,7 +9,7 @@
   },
   "description": "<> Simplified crawling of wikis",
   "devDependencies": {
-    "aberlaas": "0.6.9",
+    "aberlaas": "0.6.10",
     "get-port": "5.0.0"
   },
   "files": [
