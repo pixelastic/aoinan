@@ -1,11 +1,11 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
-    "firost": "^0.16.0",
-    "golgoth": "^0.6.0",
+    "firost": "0.16.0",
+    "golgoth": "0.6.0",
     "graceful-fs": "4.2.3",
-    "nodemw": "^0.12.2",
-    "wtf_wikipedia": "^7.6.0"
+    "nodemw": "0.12.2",
+    "wtf_wikipedia": "7.6.0"
   },
   "description": "<> Simplified crawling of wikis",
   "devDependencies": {
