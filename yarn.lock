@@ -1174,10 +1174,10 @@ abab@^2.0.0:
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.3.tgz#623e2075e02eb2d3f2475e49f99c91846467907a"
   integrity sha512-tsFzPpcttalNjFBCFMqsKYQcWxxen1pgJR56by//QwvJc4/OUS3kPOOttx2tSIfjsylB0pYu7f5D3K1RCxUnUg==
 
-aberlaas@0.10.4:
-  version "0.10.4"
-  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.10.4.tgz#b64a67d7be36ee67ca6ed7314e11555ddf7b4d69"
-  integrity sha512-ztRKFxhPbTxMoXVvfk49c+RVnu29QAFOGcXJ9I3jfJUiSaWmwBAoD8O1yZo0RRCMXQSazifYzdQSsKRU7/9Ctg==
+aberlaas@0.10.5:
+  version "0.10.5"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-0.10.5.tgz#9527bdba5eaebbe71209d159da3439c27bb42614"
+  integrity sha512-QriJWGLcorkFRpbXl571i8GKQh30/MOni71Yd6m6eGu7fOn9fp3VCywBIzGYUYvEPQZhqMT5lKfB9cCAUhZWSQ==
   dependencies:
     "@babel/cli" "7.7.4"
     "@babel/core" "7.7.4"
