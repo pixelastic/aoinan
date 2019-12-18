@@ -8391,10 +8391,10 @@ ws@^5.2.0:
   dependencies:
     async-limiter "~1.0.0"
 
-wtf_wikipedia@7.6.0:
-  version "7.6.0"
-  resolved "https://registry.yarnpkg.com/wtf_wikipedia/-/wtf_wikipedia-7.6.0.tgz#fdcb804435e711d3f36edb87afa34878882b7bf3"
-  integrity sha512-FnNeGk0uRIZE1qd2FavYj/LxPzs9fIPU9UuBSZmnZHgQaqNqvfU+nKCT3a6cisl+xW384xD5L817hN44Qh49Vw==
+wtf_wikipedia@7.8.1:
+  version "7.8.1"
+  resolved "https://registry.yarnpkg.com/wtf_wikipedia/-/wtf_wikipedia-7.8.1.tgz#f7f8f37b7b71ed00caab31ae2e4a5f925e04eb2a"
+  integrity sha512-4Qve1iFRq+UpMZwPGPHkxS0YTGj4tFGCP3+TW/3hRbj9B61ozaESdm+sBPkfJ6AUrbgVCvdnoPTOPfQW2SNcpQ==
   dependencies:
     cross-fetch "3.0.4"
 
