@@ -9,7 +9,7 @@
   },
   "description": "<> Simplified crawling of wikis",
   "devDependencies": {
-    "aberlaas": "0.10.2",
+    "aberlaas": "0.10.4",
     "get-port": "5.0.0"
   },
   "files": [
@@ -25,13 +25,7 @@
     "ci": "./scripts/ci",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
-    "lint:css": "./scripts/lint-css",
-    "lint:css:fix": "./scripts/lint-css-fix",
     "lint:fix": "./scripts/lint-fix",
-    "lint:js": "./scripts/lint-js",
-    "lint:js:fix": "./scripts/lint-js-fix",
-    "lint:json": "./scripts/lint-json",
-    "lint:json:fix": "./scripts/lint-json-fix",
     "release": "./scripts/release",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
