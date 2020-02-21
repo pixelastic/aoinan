@@ -1,15 +1,15 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
-    "firost": "1.1.1",
-    "golgoth": "1.0.4",
+    "firost": "1.2.1",
+    "golgoth": "1.1.1",
     "graceful-fs": "4.2.3",
     "nodemw": "0.12.2",
     "wtf_wikipedia": "7.8.1"
   },
   "description": "<> Simplified crawling of wikis",
   "devDependencies": {
-    "aberlaas": "1.0.3",
+    "aberlaas": "1.1.1",
     "get-port": "5.1.1"
   },
   "files": [
