@@ -13,15 +13,13 @@
     "get-port": "5.1.1"
   },
   "files": [
-    "build/"
+    "lib/*.js"
   ],
   "license": "MIT",
-  "main": "build/index.js",
+  "main": "lib/main.js",
   "name": "aoinan",
   "repository": "git@github.com:pixelastic/aoinan.git",
   "scripts": {
-    "build": "./scripts/build",
-    "build:watch": "./scripts/build-watch",
     "ci": "./scripts/ci",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
