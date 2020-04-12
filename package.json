@@ -4,7 +4,7 @@
     "firost": "1.5.0",
     "golgoth": "1.2.0",
     "graceful-fs": "4.2.3",
-    "nodemw": "0.12.2",
+    "nodemw": "0.13.0",
     "wtf_wikipedia": "7.8.1"
   },
   "description": "<> Simplified crawling of wikis",

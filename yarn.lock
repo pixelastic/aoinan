@@ -6573,10 +6573,10 @@ node-version-compare@^1.0.1:
   resolved "https://registry.yarnpkg.com/node-version-compare/-/node-version-compare-1.0.2.tgz#a3d8c1073746e3aa494b2190e2b23dfcda64c05a"
   integrity sha512-OVcHSPS3nROlBQXcALptOR0j2lOabC9wE2S+y+Fvr7nSDqoO/LCNzRdVGVovipeHUXs5jAqq7GelWE1X4J1sEw==
 
-nodemw@0.12.2:
-  version "0.12.2"
-  resolved "https://registry.yarnpkg.com/nodemw/-/nodemw-0.12.2.tgz#843f1b38f96108ad75dab19001f9a8b2f114f958"
-  integrity sha512-sS3yYRgPabNlM3FU7VnTiB4kygNJxtk6KyGeSb0LDKwNgJWF5JacfXzl1jWwBZC6n2pYiuulaCVIUfU3Bep//g==
+nodemw@0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/nodemw/-/nodemw-0.13.0.tgz#7c93fe1429603565868e8b10002b1eb5b7cf03d3"
+  integrity sha512-zTZd+dPFR7grv5O9/0E+3SivlRFMFQwOBlXmw1QZOcwftzLgKwHxqGrfLe4SXIysInSsOYSdAMI4pVQaiw4q1Q==
   dependencies:
     ansicolors "0.3.x"
     async "^2.6.1"
