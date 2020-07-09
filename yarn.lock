@@ -7468,10 +7468,10 @@ ws@^7.2.3:
   resolved "https://registry.npmjs.org/ws/-/ws-7.3.0.tgz#4b2f7f219b3d3737bc1a2fbf145d825b94d38ffd"
   integrity sha512-iFtXzngZVXPGgpTlP1rBqsUK82p9tKqsWRPg5L56egiljujJT3vGAYnHANvFxBieXrTFavhzhxW52jnaWV+w2w==
 
-wtf_wikipedia@8.3.0:
-  version "8.3.0"
-  resolved "https://registry.npmjs.org/wtf_wikipedia/-/wtf_wikipedia-8.3.0.tgz#21af3a89c54bc5395ab6950e96ba97e02e5ec809"
-  integrity sha512-83MSsBHafNaQC3ew7xa0qt6DdhLscDQIl9EF0PkOmlgX+ZwXEAa0WlBBVi1+s54xoRlpEMzSNw1eXuX6rLh4cg==
+wtf_wikipedia@8.4.0:
+  version "8.4.0"
+  resolved "https://registry.yarnpkg.com/wtf_wikipedia/-/wtf_wikipedia-8.4.0.tgz#02296515da507039344d59b4498bf7a2a72fe5ca"
+  integrity sha512-QSz17FM6pU0h/SWrqbjxw08tdDGlSSVxqmCJkUZpSq5cJ/10jcLoVBCCcbhu8+5GwkvaXMrMiTNfKJuyxPRZUQ==
 
 xdg-basedir@^4.0.0:
   version "4.0.0"
