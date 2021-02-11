@@ -3,8 +3,8 @@
   "dependencies": {
     "firost": "2.7.0",
     "golgoth": "2.0.0",
-    "graceful-fs": "4.2.4",
-    "nodemw": "0.13.0",
+    "graceful-fs": "4.2.6",
+    "nodemw": "0.14.0",
     "wtf_wikipedia": "8.5.1"
   },
   "description": "<> Simplified crawling of wikis",
