@@ -1,0 +1,17 @@
+{
+  "navigation": [
+    {
+      "links": [
+        {
+          "href": "gettingStarted",
+          "title": "Getting Started"
+        }
+      ],
+      "name": "Overview"
+    },
+    {
+      "links": ["init", "read", "write"],
+      "name": "API"
+    }
+  ]
+}

@@ -1,33 +1,29 @@
 {
-  "author": "Pixelastic <tim@pixelastic.com>",
-  "dependencies": {
-    "firost": "2.10.0",
-    "golgoth": "2.0.0",
-    "graceful-fs": "4.2.6",
-    "nodemw": "0.14.0",
-    "wtf-plugin-html": "0.2.1",
-    "wtf_wikipedia": "9.0.0"
-  },
-  "description": "<> Simplified crawling of wikis",
+  "description": "aoinan monorepo",
   "devDependencies": {
     "aberlaas": "1.15.0",
-    "get-port": "5.1.1"
+    "lerna": "4.0.0"
   },
-  "files": [
-    "lib/*.js"
-  ],
-  "license": "MIT",
-  "main": "lib/main.js",
-  "name": "aoinan",
-  "repository": "git@github.com:pixelastic/aoinan.git",
+  "files": [],
+  "homepage": "https://projects.pixelastic.com/aoinan/",
+  "keywords": [],
+  "name": "aoinan-monorepo",
+  "private": true,
   "scripts": {
+    "build": "./scripts/docs/build",
+    "build:prod": "./scripts/docs/build-prod",
     "ci": "./scripts/ci",
+    "cms": "./scripts/docs/cms",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "release": "./scripts/release",
-    "test": "./scripts/test",
-    "test:watch": "./scripts/test-watch"
+    "serve": "./scripts/docs/serve",
+    "test": "./scripts/lib/test",
+    "test:watch": "./scripts/lib/test-watch"
   },
-  "version": "2.0.0"
+  "workspaces": [
+    "lib",
+    "docs"
+  ]
 }
