@@ -1,7 +1,16 @@
 {
   "navigation": [
     {
-      "links": ["init", "category", "page"],
+      "links": [
+        {
+          "title": "Initialization",
+          "href": "init"
+        },
+        {
+          "title": "Page methods",
+          "href": "page"
+        }
+      ],
       "name": "Overview"
     }
   ]
