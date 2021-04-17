@@ -5,7 +5,8 @@
     "golgoth": "2.0.0",
     "graceful-fs": "4.2.6",
     "nodemw": "0.14.0",
-    "wtf_wikipedia": "8.5.1"
+    "wtf-plugin-html": "0.2.1",
+    "wtf_wikipedia": "9.0.0"
   },
   "description": "<> Simplified crawling of wikis",
   "devDependencies": {
