@@ -17746,10 +17746,10 @@ ws@^7.4.3:
   resolved "https://registry.npmjs.org/ws/-/ws-7.4.4.tgz#383bc9742cb202292c9077ceab6f6047b17f2d59"
   integrity sha512-Qm8k8ojNQIMx7S+Zp8u/uHOx7Qazv3Yv4q68MiWWWOJhiwG5W3x7iqmRtJo8xxrciZUY4vRxUTJCKuRnF28ZZw==
 
-wtf-plugin-html@0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npmjs.org/wtf-plugin-html/-/wtf-plugin-html-0.2.1.tgz#693c556b6c550855da8a951948797caa217f5c56"
-  integrity sha512-1AIplqNs9d8EAr1Wjg6Azr/RrucNWJBTxp02X9WZj2WEXk6d/mCAGnWohKYl2bljXUvwQmxUUQJE1wcsqhaQNg==
+wtf-plugin-html@0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/wtf-plugin-html/-/wtf-plugin-html-0.2.2.tgz#ff1975eaa480a7395c7efb3daf65227155f0fbf0"
+  integrity sha512-I7YIP+vLJlI1so/QiIxcuYPwVHw4qyGrCrdizNSHJLjLkofvhEgxE9/r21O+f5RZeJp7q7Rmrt73X9dEuVZgTA==
 
 wtf_wikipedia@9.0.0:
   version "9.0.0"
