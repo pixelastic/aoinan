@@ -1,7 +1,6 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
-    "aberlaas": "1.18.1",
     "firost": "2.10.0",
     "golgoth": "2.0.0",
     "graceful-fs": "4.2.6",
