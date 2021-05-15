@@ -1,6 +1,7 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
+    "aberlaas": "1.18.1",
     "firost": "2.10.0",
     "golgoth": "2.0.0",
     "graceful-fs": "4.2.6",
@@ -9,7 +10,9 @@
     "wtf_wikipedia": "9.0.0"
   },
   "description": "<> Simplified crawling of wikis",
-  "files": ["*.js"],
+  "files": [
+    "*.js"
+  ],
   "homepage": "https://projects.pixelastic.com/aoinan/",
   "license": "MIT",
   "main": "main.js",
