@@ -1,7 +1,7 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
   "dependencies": {
-    "firost": "2.10.0",
+    "firost": "2.13.0",
     "golgoth": "2.0.0",
     "graceful-fs": "4.2.6",
     "nodemw": "0.14.0",
@@ -26,5 +26,8 @@
     "test": "../scripts/lib/test",
     "test:watch": "../scripts/lib/test-watch"
   },
-  "version": "2.0.0"
+  "version": "2.0.0",
+  "devDependencies": {
+    "get-port": "5.1.1"
+  }
 }
