@@ -3680,10 +3680,10 @@ abbrev@1:
   resolved "https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
-aberlaas@1.18.1:
-  version "1.18.1"
-  resolved "https://registry.npmjs.org/aberlaas/-/aberlaas-1.18.1.tgz#942553ab89ab65e0387e11a22f2dfaea806bb55b"
-  integrity sha512-HRNRPddxp+ieqo9WQM/8KDD4kWSyiX+bF4L5EoWG9DITS6H/bo+DmqPUVKL8qDAEJdUXuvzbQjitbncprepC4Q==
+aberlaas@1.20.0:
+  version "1.20.0"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-1.20.0.tgz#e2c9a502ab4fac701616edf6a420efb85df80d20"
+  integrity sha512-G5f5yujVzcklY40lFAWTjONxaUBDdBNKX7jyqkA6xBzN98XVTGS91s10O81Lz0hb44QwM1CGaVMOcjVdd/XGAA==
   dependencies:
     "@octokit/rest" "18.5.3"
     ci-info "2.0.0"
@@ -3695,7 +3695,7 @@ aberlaas@1.18.1:
     eslint-plugin-node "11.1.0"
     eslint-plugin-prettier "3.4.0"
     find-up "5.0.0"
-    firost "2.10.0"
+    firost "2.12.0"
     front-matter "4.0.2"
     golgoth "2.0.0"
     husky "4.3.8"
@@ -7731,10 +7731,10 @@ find-versions@^4.0.0:
   dependencies:
     semver-regex "^3.1.2"
 
-firost@2.10.0:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-2.10.0.tgz#e4af0898f58e631dc407717a17bd6b9737cef4e2"
-  integrity sha512-w75qwo+h3Jm3nYprowyznA2mMdA+E+umqQm5po5Fx7HgyHLQO0YNkKoSBnRn9e79TwNSx9GjGjOYZYqaYJVQKA==
+firost@2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/firost/-/firost-2.12.0.tgz#3575c57bc817c3b8039d3fa887a8a990e3efff7f"
+  integrity sha512-dqA5gMwqkscooKaE6yoo04e/cEyzcMw+z65/ESO5KSOQi4eHNgefwYpMNGoDCIjJlvwFGraXYaZiFaLUkaM59g==
   dependencies:
     callsites "3.1.0"
     chokidar "3.5.1"
@@ -7742,7 +7742,7 @@ firost@2.10.0:
     eventemitter2 "6.4.4"
     execa "5.0.0"
     find-up "5.0.0"
-    fs-extra "9.1.0"
+    fs-extra "10.0.0"
     globby "11.0.3"
     golgoth "2.0.0"
     inquirer "7.3.3"
