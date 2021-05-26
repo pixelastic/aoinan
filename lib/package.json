@@ -3,7 +3,6 @@
   "dependencies": {
     "firost": "2.13.1",
     "golgoth": "2.0.0",
-    "graceful-fs": "4.2.6",
     "nodemw": "0.14.0",
     "wtf-plugin-html": "0.2.2",
     "wtf_wikipedia": "9.0.0"
