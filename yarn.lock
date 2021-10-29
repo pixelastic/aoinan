@@ -12915,10 +12915,10 @@ nodemon@2.0.12:
     undefsafe "^2.0.3"
     update-notifier "^4.1.0"
 
-nodemw@0.15.0:
-  version "0.15.0"
-  resolved "https://registry.yarnpkg.com/nodemw/-/nodemw-0.15.0.tgz#a46c4f0acf376a2e93f7c61c9d532c21a6a8f532"
-  integrity sha512-MKSKMg5InfQR/4stypsnElucmaLafn4ftkfVaVS0fDTAtWTSkuJjSF/5bilFKzB46cxqp9bXA8uy447Sgv55ew==
+nodemw@0.16.0:
+  version "0.16.0"
+  resolved "https://registry.yarnpkg.com/nodemw/-/nodemw-0.16.0.tgz#d9b430929258ec27be5959c46e1022dad57a91a1"
+  integrity sha512-C21O4Bxp1MAbmRvwKzGv4UHWX1qE48dC1OAGrXcnOjPpoJa7efq8DEwEuebgYD1pTWeupn+ozuOaGVT+L/h/4w==
   dependencies:
     ansicolors "0.3.x"
     async "^3.2.0"
