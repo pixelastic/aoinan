@@ -4,7 +4,7 @@
   "dependencies": {
     "firost": "5.3.0",
     "golgoth": "3.0.0",
-    "nodemw": "0.16.0",
+    "nodemw": "0.25.0",
     "wtf-plugin-html": "1.0.0",
     "wtf_wikipedia": "10.4.0"
   },
