@@ -1,20 +1,24 @@
 {
+  "name": "aoinan-monorepo",
+  "type": "module",
+  "private": true,
   "description": "aoinan monorepo",
+  "workspaces": [
+    "lib",
+    "docs"
+  ],
   "devDependencies": {
-    "aberlaas": "1.25.0",
+    "aberlaas": "2.19.0",
     "lerna": "4.0.0"
   },
   "files": [],
   "homepage": "https://projects.pixelastic.com/aoinan/",
   "keywords": [],
-  "name": "aoinan-monorepo",
-  "private": true,
   "scripts": {
     "build": "./scripts/docs/build",
     "build:prod": "./scripts/docs/build-prod",
     "ci": "./scripts/ci",
     "cms": "./scripts/docs/cms",
-    "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "release": "./scripts/release",
@@ -22,8 +26,5 @@
     "test": "./scripts/lib/test",
     "test:watch": "./scripts/lib/test-watch"
   },
-  "workspaces": [
-    "lib",
-    "docs"
-  ]
+  "packageManager": "yarn@4.12.0"
 }
