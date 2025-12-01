@@ -18,12 +18,12 @@
   "name": "aoinan",
   "repository": "pixelastic/aoinan",
   "scripts": {
-    "ci": "../scripts/lib/ci",
-    "lint": "../scripts/lib/lint",
-    "lint:fix": "../scripts/lib/lint-fix",
-    "release": "../scripts/lib/release",
-    "test": "../scripts/lib/test",
-    "test:watch": "../scripts/lib/test-watch"
+    "ci": "ABERLAAS_CWD=$INIT_CWD yarn g:ci",
+    "lint": "ABERLAAS_CWD=$INIT_CWD yarn g:lint",
+    "lint:fix": "ABERLAAS_CWD=$INIT_CWD yarn g:lint:fix",
+    "release": "ABERLAAS_CWD=$INIT_CWD yarn g:release",
+    "test": "ABERLAAS_CWD=$INIT_CWD yarn g:test",
+    "test:watch": "ABERLAAS_CWD=$INIT_CWD yarn g:test:watch"
   },
   "version": "2.1.0",
   "devDependencies": {
