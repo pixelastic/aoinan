@@ -6049,8 +6049,8 @@ __metadata:
     get-port: "npm:7.1.0"
     golgoth: "npm:3.0.0"
     nodemw: "npm:0.16.0"
-    wtf-plugin-html: "npm:0.2.2"
-    wtf_wikipedia: "npm:9.0.1"
+    wtf-plugin-html: "npm:1.0.0"
+    wtf_wikipedia: "npm:10.4.0"
   languageName: unknown
   linkType: soft
 
@@ -7326,13 +7326,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"camelcase@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "camelcase@npm:3.0.0"
-  checksum: 10c0/98871bb40b936430beca49490d325759f8d8ade32bea538ee63c20b17b326abb6bbd3e1d84daf63d9332b2fc7637f28696bf76da59180b1247051b955cb1da12
-  languageName: node
-  linkType: hard
-
 "camelcase@npm:^5.0.0, camelcase@npm:^5.3.1":
   version: 5.3.1
   resolution: "camelcase@npm:5.3.1"
@@ -7876,17 +7869,6 @@ __metadata:
   version: 4.1.0
   resolution: "cli-width@npm:4.1.0"
   checksum: 10c0/1fbd56413578f6117abcaf858903ba1f4ad78370a4032f916745fa2c7e390183a9d9029cf837df320b0fdce8137668e522f60a30a5f3d6529ff3872d265a955f
-  languageName: node
-  linkType: hard
-
-"cliui@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "cliui@npm:3.2.0"
-  dependencies:
-    string-width: "npm:^1.0.1"
-    strip-ansi: "npm:^3.0.1"
-    wrap-ansi: "npm:^2.0.0"
-  checksum: 10c0/07b121fac7fd33ff8dbf3523f0d3dca0329d4e457e57dee54502aa5f27a33cbd9e66aa3e248f0260d8a1431b65b2bad8f510cd97fb8ab6a8e0506310a92e18d5
   languageName: node
   linkType: hard
 
@@ -9056,7 +9038,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"decamelize@npm:^1.1.0, decamelize@npm:^1.1.1, decamelize@npm:^1.1.2, decamelize@npm:^1.2.0":
+"decamelize@npm:^1.1.0, decamelize@npm:^1.1.2, decamelize@npm:^1.2.0":
   version: 1.2.0
   resolution: "decamelize@npm:1.2.0"
   checksum: 10c0/85c39fe8fbf0482d4a1e224ef0119db5c1897f8503bcef8b826adff7a1b11414972f6fef2d7dec2ee0b4be3863cf64ac1439137ae9e6af23a3d8dcbe26a5b4b2
@@ -12198,7 +12180,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"get-caller-file@npm:^1.0.1, get-caller-file@npm:^1.0.2":
+"get-caller-file@npm:^1.0.2":
   version: 1.0.3
   resolution: "get-caller-file@npm:1.0.3"
   checksum: 10c0/763dcee2de8ff60ae7e13a4bad8306205a2fbe108e555686344ddd9ef211b8bebfe459d3a739669257014c59e7cc1e7a44003c21af805c1214673e6a45f06c51
@@ -14032,13 +14014,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"invert-kv@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "invert-kv@npm:1.0.0"
-  checksum: 10c0/9ccef12ada8494c56175cc0380b4cea18b6c0a368436f324a30e43a332db90bdfb83cd3a7987b71df359cdf931ce45b7daf35b677da56658565d61068e4bc20b
-  languageName: node
-  linkType: hard
-
 "ip-address@npm:^10.0.1":
   version: 10.1.0
   resolution: "ip-address@npm:10.1.0"
@@ -15553,15 +15528,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lcid@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "lcid@npm:1.0.0"
-  dependencies:
-    invert-kv: "npm:^1.0.0"
-  checksum: 10c0/87fb32196c3c80458778f34f71c042e114f3134a3c86c0d60ee9c94f0750e467d7ca0c005a5224ffd9d49a6e449b5e5c31e1544f1827765a0ba8747298f5980e
-  languageName: node
-  linkType: hard
-
 "lerna@npm:4.0.0":
   version: 4.0.0
   resolution: "lerna@npm:4.0.0"
@@ -15906,13 +15872,6 @@ __metadata:
   version: 3.0.0
   resolution: "lodash._reinterpolate@npm:3.0.0"
   checksum: 10c0/cdf592374b5e9eb6d6290a9a07c7d90f6e632cca4949da2a26ae9897ab13f138f3294fd5e81de3e5d997717f6e26c06747a9ad3413c043fd36c0d87504d97da6
-  languageName: node
-  linkType: hard
-
-"lodash.assign@npm:^4.1.0, lodash.assign@npm:^4.2.0":
-  version: 4.2.0
-  resolution: "lodash.assign@npm:4.2.0"
-  checksum: 10c0/77e9a28edcb41655e5f5b4b07ec55a5f9bbd6f020f64474acd66c94ce256ed26451f59e5eb421fc4e5ea79d3939a2e2b3a6abeaa0da47bfd1ccd64dfb21f89a0
   languageName: node
   linkType: hard
 
@@ -18876,15 +18835,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"os-locale@npm:^1.4.0":
-  version: 1.4.0
-  resolution: "os-locale@npm:1.4.0"
-  dependencies:
-    lcid: "npm:^1.0.0"
-  checksum: 10c0/302173159d562000ddf982ed75c493a0d861e91372c9e1b13aab21590ff2e1ba264a41995b29be8dc5278a6127ffcd2ad5591779e8164a570fc5fa6c0787b057
-  languageName: node
-  linkType: hard
-
 "os-name@npm:^3.1.0":
   version: 3.1.0
   resolution: "os-name@npm:3.1.0"
@@ -21337,18 +21287,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"recursive-install@npm:1.4.0":
-  version: 1.4.0
-  resolution: "recursive-install@npm:1.4.0"
-  dependencies:
-    shelljs: "npm:^0.7.0"
-    yargs: "npm:^5.0.0"
-  bin:
-    npm-recursive-install: ./recursive-install.js
-  checksum: 10c0/c5caa5f9cfb86e320061abca0914da4c99dc86d6b7783a09c0a4923f4c8abccd8d7ba7858e8809b12630a5c5b860a7681c0ae5858f1033fc9100352d5a772f7d
-  languageName: node
-  linkType: hard
-
 "redent@npm:^1.0.0":
   version: 1.0.0
   resolution: "redent@npm:1.0.0"
@@ -21624,13 +21562,6 @@ __metadata:
   version: 2.0.2
   resolution: "require-from-string@npm:2.0.2"
   checksum: 10c0/aaa267e0c5b022fc5fd4eef49d8285086b15f2a1c54b28240fdf03599cbd9c26049fee3eab894f2e1f6ca65e513b030a7c264201e3f005601e80c49fb2937ce2
-  languageName: node
-  linkType: hard
-
-"require-main-filename@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "require-main-filename@npm:1.0.1"
-  checksum: 10c0/1ab87efb72a0e223a667154e92f29ca753fd42eb87f22db142b91c86d134e29ecf18af929111ccd255fd340b57d84a9d39489498d8dfd5136b300ded30a5f0b6
   languageName: node
   linkType: hard
 
@@ -22580,19 +22511,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"shelljs@npm:^0.7.0":
-  version: 0.7.8
-  resolution: "shelljs@npm:0.7.8"
-  dependencies:
-    glob: "npm:^7.0.0"
-    interpret: "npm:^1.0.0"
-    rechoir: "npm:^0.6.2"
-  bin:
-    shjs: ./bin/shjs
-  checksum: 10c0/4c16154f298aa515d543ee3ff74bc28d969bf00a5228ab9bd7443ea1af36e9116490b5287c8319194efceb4ca557a4376c8a38e01ccfed7846d8b425388c2b18
-  languageName: node
-  linkType: hard
-
 "shelljs@npm:^0.8.3":
   version: 0.8.4
   resolution: "shelljs@npm:0.8.4"
@@ -23310,7 +23228,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"string-width@npm:^1.0.1, string-width@npm:^1.0.2":
+"string-width@npm:^1.0.1":
   version: 1.0.2
   resolution: "string-width@npm:1.0.2"
   dependencies:
@@ -25629,13 +25547,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"which-module@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "which-module@npm:1.0.0"
-  checksum: 10c0/ce5088fb12dae0b6d5997b6221342943ff6275c3b2cd9c569f04ec23847c71013d254c6127d531010dccc22c0fc0f8dce2b6ecf6898941a60b576adb2018af22
-  languageName: node
-  linkType: hard
-
 "which-module@npm:^2.0.0":
   version: 2.0.0
   resolution: "which-module@npm:2.0.0"
@@ -25741,15 +25652,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"window-size@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "window-size@npm:0.2.0"
-  bin:
-    window-size: cli.js
-  checksum: 10c0/378c9d7a1c903ca57f08db40dd8960252f566910ea9dea6d8552e9d61cebe9e536dcabc1b5a6edb776eebe8e5bcbcfb5b27ba13fe128625bc2033516acdc95cc
-  languageName: node
-  linkType: hard
-
 "windows-release@npm:^3.1.0":
   version: 3.3.1
   resolution: "windows-release@npm:3.3.1"
@@ -25825,16 +25727,6 @@ __metadata:
   version: 1.0.0
   resolution: "wordwrap@npm:1.0.0"
   checksum: 10c0/7ed2e44f3c33c5c3e3771134d2b0aee4314c9e49c749e37f464bf69f2bcdf0cbf9419ca638098e2717cff4875c47f56a007532f6111c3319f557a2ca91278e92
-  languageName: node
-  linkType: hard
-
-"wrap-ansi@npm:^2.0.0":
-  version: 2.1.0
-  resolution: "wrap-ansi@npm:2.1.0"
-  dependencies:
-    string-width: "npm:^1.0.1"
-    strip-ansi: "npm:^3.0.1"
-  checksum: 10c0/1a47367eef192fc9ecaf00238bad5de8987c3368082b619ab36c5e2d6d7b0a2aef95a2ca65840be598c56ced5090a3ba487956c7aee0cac7c45017502fa980fb
   languageName: node
   linkType: hard
 
@@ -25986,25 +25878,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wtf-plugin-html@npm:0.2.2":
-  version: 0.2.2
-  resolution: "wtf-plugin-html@npm:0.2.2"
+"wtf-plugin-html@npm:1.0.0":
+  version: 1.0.0
+  resolution: "wtf-plugin-html@npm:1.0.0"
   peerDependencies:
-    wtf_wikipedia: ^8.0.0
-  checksum: 10c0/ca9fbb05b3a2feadaad99f6ac6502341ca5229257a1d847fb3b773e3e8805b119e295ca9302d85bb28de8e2ca39037a73acf748aaa3e115255612277a5f72fc9
+    wtf_wikipedia: ">=9.0.0"
+  checksum: 10c0/2bbe4554532bef5bb0bd21979b64d1c98106401e9014d447ee54fb745f3d3d38a042bb7183c3582271248d45f0060b0840f212f8ab6933af8ce6a84d559bbe39
   languageName: node
   linkType: hard
 
-"wtf_wikipedia@npm:9.0.1":
-  version: 9.0.1
-  resolution: "wtf_wikipedia@npm:9.0.1"
+"wtf_wikipedia@npm:10.4.0":
+  version: 10.4.0
+  resolution: "wtf_wikipedia@npm:10.4.0"
   dependencies:
     isomorphic-unfetch: "npm:^3.1.0"
     path-exists-cli: "npm:2.0.0"
-    recursive-install: "npm:1.4.0"
   bin:
     wtf_wikipedia: cli.js
-  checksum: 10c0/19e62494fe3df131f4ca180ee6cb79f9d8826533fa3cb1fe918449435d2fb9804c4522e554483397ba54cb96dec7259856026f5eb753815139af006bddefb471
+  checksum: 10c0/670c1fc449b8460d81365011dad3ba3392b56b32687e59a513b9283fe0a602878b618e7110ac43682de5cd43fec36c10bbaa214936298fd6cfe2d90eed34b09b
   languageName: node
   linkType: hard
 
@@ -26019,13 +25910,6 @@ __metadata:
   version: 4.0.2
   resolution: "xtend@npm:4.0.2"
   checksum: 10c0/366ae4783eec6100f8a02dff02ac907bf29f9a00b82ac0264b4d8b832ead18306797e283cf19de776538babfdcb2101375ec5646b59f08c52128ac4ab812ed0e
-  languageName: node
-  linkType: hard
-
-"y18n@npm:^3.2.1":
-  version: 3.2.2
-  resolution: "y18n@npm:3.2.2"
-  checksum: 10c0/08dc1880f6f766057ed25cd61ef0c7dab3db93639db9a7487a84f75dac7a349dface8dff8d1d8b7bdf50969fcd69ab858ab26b06968b4e4b12ee60d195233c46
   languageName: node
   linkType: hard
 
@@ -26132,16 +26016,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yargs-parser@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "yargs-parser@npm:3.2.0"
-  dependencies:
-    camelcase: "npm:^3.0.0"
-    lodash.assign: "npm:^4.1.0"
-  checksum: 10c0/6cfc31e035bfea06a19cd741041473e5f7fd198670cbfdf3dd3db3ae07193d6f1a74f943544e534284a91d7157437a92e9aae5ab5c9d41889c95ff7a9d84b628
-  languageName: node
-  linkType: hard
-
 "yargs@npm:^15.3.0, yargs@npm:^15.3.1":
   version: 15.4.1
   resolution: "yargs@npm:15.4.1"
@@ -26173,28 +26047,6 @@ __metadata:
     y18n: "npm:^5.0.5"
     yargs-parser: "npm:^20.2.2"
   checksum: 10c0/b1dbfefa679848442454b60053a6c95d62f2d2e21dd28def92b647587f415969173c6e99a0f3bab4f1b67ee8283bf735ebe3544013f09491186ba9e8a9a2b651
-  languageName: node
-  linkType: hard
-
-"yargs@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "yargs@npm:5.0.0"
-  dependencies:
-    cliui: "npm:^3.2.0"
-    decamelize: "npm:^1.1.1"
-    get-caller-file: "npm:^1.0.1"
-    lodash.assign: "npm:^4.2.0"
-    os-locale: "npm:^1.4.0"
-    read-pkg-up: "npm:^1.0.1"
-    require-directory: "npm:^2.1.1"
-    require-main-filename: "npm:^1.0.1"
-    set-blocking: "npm:^2.0.0"
-    string-width: "npm:^1.0.2"
-    which-module: "npm:^1.0.0"
-    window-size: "npm:^0.2.0"
-    y18n: "npm:^3.2.1"
-    yargs-parser: "npm:^3.2.0"
-  checksum: 10c0/844fe880c392479f36a3290c00670c204e4ffacb1d2ae6a973c9ff88b9a87c0257557e63447445c6edccca98927685315d88fd8bef4e63f2c28a14df7d3e0837
   languageName: node
   linkType: hard
 
