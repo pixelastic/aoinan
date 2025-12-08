@@ -1,0 +1,213 @@
+[
+  {
+    "property": "Artist",
+    "dataitem": [
+      { "type": 9, "item": "Adam_Vehige#0##" },
+      { "type": 9, "item": "Rob_Lazzaretti#0##" }
+    ],
+    "direction": "direct"
+  },
+  {
+    "property": "Author_all",
+    "dataitem": [{ "type": 9, "item": "Joshua_J._Frost#0##" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Blurb_text",
+    "dataitem": [
+      {
+        "type": 2,
+        "item": "Famed [[Pathfinder]] [[Bodriggan Wuthers]] disappeared from his dig site beneath the [[House of the Immortal Son]] in [[Taldor|Taldor's]] gilded capital of [[Oppara]]. Once a grand temple to [[Aroden]], the Immortal Son is now Oppara's most opulent theater. Sent to locate Wuthers, the Pathfinders must attend an opera with members of the Oppara elite in order to gain access to the secretive theater's dig site. When a cult crashes the performance and the nobility change into hideous walking dead, the Pathfinders are forced to choose between finding Wuthers or saving themselves."
+      }
+    ],
+    "direction": "direct"
+  },
+  {
+    "property": "Book_type",
+    "dataitem": [{ "type": 2, "item": "Pathfinder Society scenario" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Fact_type",
+    "dataitem": [{ "type": 9, "item": "Facts/Book#10##" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Follows",
+    "dataitem": [{ "type": 9, "item": "Black_Waters#0##" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Full_title",
+    "dataitem": [
+      {
+        "type": 2,
+        "item": "Pathfinder Society Scenario #7: Among the Living"
+      }
+    ],
+    "direction": "direct"
+  },
+  {
+    "property": "Gallery_page",
+    "dataitem": [{ "type": 9, "item": "Artwork_from_Among_the_Living#14##" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Has_reference_to",
+    "dataitem": [
+      { "type": 9, "item": "Sedeq#0##" },
+      { "type": 9, "item": "Eliza_Petulengro#0##" },
+      { "type": 9, "item": "Aroden#0##" },
+      { "type": 9, "item": "Stavian_III#0##" },
+      { "type": 9, "item": "Fel_Bustrani#0##" },
+      { "type": 9, "item": "Bodriggan_Wuthers#0##" },
+      { "type": 9, "item": "Oppara#0##" },
+      { "type": 9, "item": "House_of_the_Immortal_Son#0##" },
+      { "type": 9, "item": "Sebastus_Hustavan#0##" },
+      { "type": 9, "item": "Zyphus#0##" },
+      { "type": 9, "item": "Deanaris_Quint#0##" },
+      { "type": 9, "item": "Zyphus_Stone#0##" }
+    ],
+    "direction": "direct"
+  },
+  {
+    "property": "Image",
+    "dataitem": [{ "type": 9, "item": "Among_the_Living.jpg#6##" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Level_range_end",
+    "dataitem": [{ "type": 1, "item": "7" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Level_range_start",
+    "dataitem": [{ "type": 1, "item": "1" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Location",
+    "dataitem": [
+      { "type": 9, "item": "Oppara#0##" },
+      { "type": 9, "item": "Taldor#0##" }
+    ],
+    "direction": "direct"
+  },
+  {
+    "property": "Name",
+    "dataitem": [{ "type": 2, "item": "Among the Living" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Pages",
+    "dataitem": [{ "type": 1, "item": "21" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Precedes",
+    "dataitem": [{ "type": 9, "item": "Slave_Pits_of_Absalom#0##" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Primary_author",
+    "dataitem": [
+      {
+        "type": 9,
+        "item": "Among_the_Living#128##_5bc70d691a1288fbeb7255ef9c39d63f"
+      }
+    ],
+    "direction": "direct"
+  },
+  {
+    "property": "Pubcode",
+    "dataitem": [{ "type": 2, "item": "PZOPSS0007E" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Publisher",
+    "dataitem": [{ "type": 9, "item": "Paizo_Inc.#0##" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Release_date",
+    "dataitem": [{ "type": 6, "item": "1/2008/11" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Release_date_sort",
+    "dataitem": [{ "type": 6, "item": "1/2008/11" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Release_year",
+    "dataitem": [{ "type": 2, "item": "2008" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Represented_by_page",
+    "dataitem": [{ "type": 9, "item": "Among_the_Living#0##" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Rule_system",
+    "dataitem": [{ "type": 2, "item": "D&D 3.5" }],
+    "direction": "direct"
+  },
+  {
+    "property": "Series",
+    "dataitem": [
+      { "type": 9, "item": "Pathfinder_Society_Roleplaying_Guild#0##" },
+      { "type": 9, "item": "Season_0#0##" }
+    ],
+    "direction": "direct"
+  },
+  {
+    "property": "Website",
+    "dataitem": [
+      {
+        "type": 5,
+        "item": "https://store.paizo.com/pathfinder-society-scenario-7-among-the-living/"
+      }
+    ],
+    "direction": "direct"
+  },
+  {
+    "property": "_ASK",
+    "dataitem": [
+      {
+        "type": 9,
+        "item": "Among_the_Living#128##_QUERY23c5b93994e95cd1415594ed772a4507"
+      },
+      {
+        "type": 9,
+        "item": "Among_the_Living#128##_QUERY86b85c4926b840e6eb604bf22919df31"
+      }
+    ],
+    "direction": "direct"
+  },
+  {
+    "property": "_INST",
+    "dataitem": [{ "type": 9, "item": "Facts_about_Books#14##" }],
+    "direction": "direct"
+  },
+  {
+    "property": "_MDAT",
+    "dataitem": [{ "type": 6, "item": "1/2025/11/21/10/3/50/0" }],
+    "direction": "direct"
+  },
+  {
+    "property": "_SKEY",
+    "dataitem": [{ "type": 2, "item": "Among the Living" }],
+    "direction": "direct"
+  },
+  {
+    "property": "_SOBJ",
+    "dataitem": [
+      {
+        "type": 9,
+        "item": "Among_the_Living#128##_ab48007b1c021b92ed534faf4865fd70"
+      }
+    ],
+    "direction": "direct"
+  }
+]
