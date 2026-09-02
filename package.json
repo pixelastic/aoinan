@@ -36,5 +36,5 @@
     "g:test": "./scripts/lib/test",
     "g:test:watch": "./scripts/lib/test-watch"
   },
-  "packageManager": "yarn@4.12.0"
+  "packageManager": "yarn@4.18.0"
 }
